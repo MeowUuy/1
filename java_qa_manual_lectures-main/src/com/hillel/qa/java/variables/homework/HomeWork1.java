@@ -1,5 +1,7 @@
 package com.hillel.qa.java.variables.homework;
 
+import java.time.Year;
+
 public class HomeWork1 {
     /**
      * <h2>Вимоги:</h2>
@@ -9,7 +11,14 @@ public class HomeWork1 {
      *     <li>Змінним одразу потрібно присвоїти значення.</li>
      * </ul>
      */
-    public static void main(String[] args) {
 
+    public static void main(String[] args) {
+        int year=2023;
+        String countryName = "Ukraine";
+        double height = 1.0;
+        boolean isStudent = true;
+        System.out.println(year);
+        System.out.println(countryName);
+        System.out.println(height);
     }
 }
