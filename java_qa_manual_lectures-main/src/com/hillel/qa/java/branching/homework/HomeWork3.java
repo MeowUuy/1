@@ -22,6 +22,5 @@ public class HomeWork3 {
      * </p>
      */
     public static void main(String[] args) {
-
     }
-}
+    }
