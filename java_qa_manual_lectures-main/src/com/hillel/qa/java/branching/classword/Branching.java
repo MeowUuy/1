@@ -50,12 +50,12 @@ public class Branching {
          Якщо умова не була виконана, зробіть те що в блоці else
          */
 
-        /*int age = 17;
+        int age = 17;
         if (age < 18){
             System.out.println("Ви ще дитина!");
         } else {
             System.out.println("Ви дорослі!");
-        }*/
+        }
 
          /*
          Завдання 3:
