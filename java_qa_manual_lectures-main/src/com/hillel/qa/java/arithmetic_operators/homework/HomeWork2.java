@@ -15,8 +15,8 @@ public class HomeWork2 {
      */
     public static void main(String[] args) {
         final int number = 278;
-        int s = 270;
-        int lastDigit = number- s;
+        int s = number%90 ;
+        int lastDigit = s;
         System.out.println(lastDigit);
     }
 }
