@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e913c40-a7be-4cae-bd2d-5f6ddb729d4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_qa_manual_lectures-main/com/hillel/qa/java/cycles/homework/HomeWork3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_qa_manual_lectures-main/com/hillel/qa/java/cycles/homework/HomeWork3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/classwork/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/classwork/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/classwork/fgg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/classwork/fgg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/arithmetic_operators/homework/HomeWork3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/classword/Branching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/classword/Branching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/branching/homework/HomeWork4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/comparison_operators/classwork/ComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/comparison_operators/classwork/ComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/comparison_operators/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/comparison_operators/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/classwork/Cycles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/classwork/Cycles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/cycles/homework/HomeWork4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/logical_operators/classwork/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/logical_operators/classwork/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/logical_operators/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/logical_operators/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/classwork/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/classwork/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hillel/qa/java/variables/homework/HomeWork3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
