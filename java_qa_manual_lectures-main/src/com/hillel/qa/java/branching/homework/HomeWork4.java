@@ -26,7 +26,7 @@ public class HomeWork4 {
         int z = s.nextInt();
         String s1 = "трикутник існує";
         String s2 = "трикутник не існує";
-        if ((x + y) < z || (x + z) < y || (y + z) < x) {
+        if ((x + y) < z && (x + z) < y && (y + z) < x) {
             System.out.println(s2);
         } else {
             System.out.println(s1);
