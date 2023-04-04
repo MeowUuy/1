@@ -19,7 +19,17 @@ public class HomeWork4 {
      * @see <a href="https://www.w3schools.com/java/java_user_input.asp">Стаття як користуватися Scanner</a>
      */
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
+        Scanner s = new Scanner(System.in);
+        System.out.println("введіть дані вашого трикутника");
+        int x = s.nextInt();
+        int y = s.nextInt();
+        int z = s.nextInt();
+        String s1 = "трикутник існує";
+        String s2 = "трикутник не існує";
+        if ((x + y) < z || (x + z) < y || (y + z) < x) {
+            System.out.println(s2);
+        } else {
+            System.out.println(s1);
+        }
     }
 }

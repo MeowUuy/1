@@ -50,7 +50,7 @@ public class Branching {
          Якщо умова не була виконана, зробіть те що в блоці else
          */
 
-        int age = 17;
+        /* int age = 17;
         if (age < 18){
             System.out.println("Ви ще дитина!");
         } else {
@@ -116,8 +116,8 @@ public class Branching {
                 System.out.println("Сьогодні Неділя!");
                 break;
             default:
-                System.out.println("Такого дня не існує");
-        }*/
+                System.out.println("Такого дня не існує");/*
+        }
 
         /*
         Оператор починається зі слова switch який на вхід приймає параметр, у нашому випадку це weekDay,

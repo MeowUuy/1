@@ -22,5 +22,24 @@ public class HomeWork3 {
      * </p>
      */
     public static void main(String[] args) {
+        final int suma = 200;
+        int oplata = 2;
+        switch (oplata) {
+            case 1:
+                System.out.println("З вас "+suma+"оплата готівкою");
+                break;
+            case 2:
+                int a1= suma*2/100;
+                int b1= suma +a1;
+                System.out.println("З вас "+b1 +" стягується додаткова комісія 2% за оплату карткою");
+                break;
+            case 3:
+                int a2= suma*5/100;
+                int b2= suma +a2;
+                System.out.println("З вас "+b2+" стягується додаткова комісія 5% за оплату рахунком");
+                break;
+            default:
+                System.out.println("Такого способу не існує");
+        }
     }
-    }
+}
