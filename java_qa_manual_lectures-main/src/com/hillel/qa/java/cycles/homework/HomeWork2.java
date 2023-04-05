@@ -1,6 +1,7 @@
 package com.hillel.qa.java.cycles.homework;
 
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class HomeWork2 {
     /**
@@ -15,12 +16,18 @@ public class HomeWork2 {
      * @see <a href="https://www.w3schools.blog/string-to-int-java">String To Int In Java</a>
      */
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
+        Scanner console = new Scanner(System.in);
         System.out.println("введіть числа");
+        int sum = 0;
+        while (console.hasNextInt())
+        {
+            int x = console.nextInt();
+            sum = sum + x;
+        }
+        System.out.println("сума ваших чисел дорівнює "+sum);
         boolean isExit = false;
-                while (!isExit) {
-                    String b = s.nextLine();
-                    isExit = b.equals("exit");
-                }
+            while (!isExit) {
+                break;
+            }
+        }
     }
-}
