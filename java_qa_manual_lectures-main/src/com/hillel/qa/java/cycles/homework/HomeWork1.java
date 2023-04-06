@@ -12,7 +12,7 @@ public class HomeWork1 {
         int  g = 10;
         while (g > 0)
         {
-            System.out.println("Porsh найкраше авто");
+            System.out.println("Porsh1 найкраше авто");
             g--;
         }
     }

@@ -8,13 +8,13 @@ public class HomeWork3 {
      * </p>
      */
     public static void main(String[] args) {
-        int a = 0, sum = 0;
+        int a = 0, sum1 = 0;
         while (a <= 100) {
             if ((a % 3) > 0)
-                sum += a;
+                sum1 += a;
             a++;
             continue;
         }
-        System.out.println(sum);
+        System.out.println(sum1);
     }
 }

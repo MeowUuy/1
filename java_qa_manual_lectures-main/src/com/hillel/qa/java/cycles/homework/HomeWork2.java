@@ -17,7 +17,7 @@ public class HomeWork2 {
      */
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        System.out.println("введіть числа");
+        System.out.println("введіть числа1");
         int sum = 0;
         while (console.hasNextInt())
         {
