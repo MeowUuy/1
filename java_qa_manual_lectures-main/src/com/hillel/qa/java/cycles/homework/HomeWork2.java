@@ -17,7 +17,7 @@ public class HomeWork2 {
      */
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        System.out.println("введіть числа1");
+        System.out.println("введіть числа");
         int sum = 0;
         while (console.hasNextInt())
         {
@@ -26,8 +26,8 @@ public class HomeWork2 {
         }
         System.out.println("сума ваших чисел дорівнює "+sum);
         boolean isExit = false;
-            while (!isExit) {
-                break;
-            }
+        while (!isExit) {
+            break;
         }
     }
+}
