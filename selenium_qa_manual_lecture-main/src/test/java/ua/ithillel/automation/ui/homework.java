@@ -49,15 +49,15 @@ public class homework {
         Thread.sleep(1000);
         driver.findElement(By.cssSelector("select  option:nth-child(4)")).click();
         driver.findElement(By.id("addCarMileage")).sendKeys("1");
-        driver.findElement(By.cssSelector("body > ngb-modal-window > div > div > app-add-car-modal > div.modal-footer.d-flex.justify-content-end > button.btn.btn-primary")).click();
-        driver.findElement(By.cssSelector("body > app-root > app-global-layout > div > div > div > app-panel-layout > div > div > div > div.col-lg-9.main-wrapper > div > app-garage > div > div.panel-page_content > div > ul > li > app-car > div > div.car-heading.d-flex.flex-column.flex-sm-row.justify-content-sm-between > div.car_actions > button.car_add-expense.btn.btn-success")).click();
+        driver.findElement(By.cssSelector("div.modal-footer.d-flex.justify-content-end > button.btn.btn-primary")).click();
+        driver.findElement(By.cssSelector("div.car_actions > button.car_add-expense.btn.btn-success")).click();
         driver.findElement(By.id("addExpenseLiters")).sendKeys("12");
         driver.findElement(By.id("addExpenseTotalCost")).sendKeys("24");
         driver.findElement(By.id("addExpenseMileage")).sendKeys("3");
-        driver.findElement(By.cssSelector("body > ngb-modal-window > div > div > app-add-expense-modal > div.modal-footer.d-flex.justify-content-end > button.btn.btn-primary")).click();
-        driver.findElement(By.cssSelector("body > app-root > app-global-layout > div > div > div > app-panel-layout > div > div > div > div.col-3.d-none.d-lg-block.sidebar-wrapper > nav > div > a:nth-child(2)")).click();
-        driver.findElement(By.cssSelector("body > app-root > app-global-layout > div > div > div > app-panel-layout > div > div > div > div.col-lg-9.main-wrapper > div > app-settings > div > div.panel-page_content > div > div.user-settings_item.-form.-remove-account > div > button")).click();
-        driver.findElement(By.cssSelector("body > ngb-modal-window > div > div > app-remove-account-modal > div.modal-footer.d-flex.justify-content-end > button.btn.btn-danger")).click();
+        driver.findElement(By.cssSelector("div.modal-footer.d-flex.justify-content-end > button.btn.btn-primary")).click();
+        driver.findElement(By.cssSelector("div.col-3.d-none.d-lg-block.sidebar-wrapper > nav > div > a:nth-child(2)")).click();
+        driver.findElement(By.cssSelector("div.user-settings_item.-form.-remove-account > div > button")).click();
+        driver.findElement(By.cssSelector("button.btn.btn-danger")).click();
         Thread.sleep(1000);
     }
 
